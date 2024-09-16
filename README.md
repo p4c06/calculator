@@ -1,3 +1,3 @@
 # calculator
 ## sets
-to see sets documantation open [this](setsusage.txt)
+to see sets documantation open (this)[setsusage.txt]
