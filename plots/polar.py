@@ -15,7 +15,7 @@ theta = np.linspace(begin, end, num)
 
 
 r = []
-for theta1 in angles:
+for theta1 in theta:
     try:
         r1 = f(theta1)
     except:
